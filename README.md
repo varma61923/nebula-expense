@@ -661,13 +661,13 @@ flutter build apk --analyze-size
 
 ## Security Standards
 
-### Compliance
+### Compliance(Pending)
 - **DoD 5220.22-M**: Department of Defense data sanitization
 - **NSA/CSS-02-01**: National Security Agency secure erasure
 - **FIPS 140-2**: Federal Information Processing Standards
 - **Common Criteria EAL4+**: International security evaluation
 
-### Security Audit
+### Security Audit(Pending)
 Regular security assessments include:
 - Static code analysis
 - Dynamic application security testing
@@ -677,7 +677,7 @@ Regular security assessments include:
 
 ### Vulnerability Reporting
 To report security vulnerabilities:
-1. Email: security@nebula-expense.com
+1. Raise a feature/bug request
 2. Use encrypted communication
 3. Provide detailed reproduction steps
 4. Allow reasonable disclosure timeline
@@ -701,9 +701,6 @@ See [LICENSES.md](LICENSES.md) for complete list of third-party dependencies and
 - GitHub Issues for bug reports
 - GitHub Discussions for questions
 - Wiki for additional documentation
-
-### Commercial Support
-For enterprise support and custom implementations, contact: enterprise@nebula-expense.com
 
 ---
 
